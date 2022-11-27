@@ -1,0 +1,56 @@
+[
+  {
+    "compName": "QiuYeButton",
+    "compZhName": "按钮",
+    "compDesc": "这是一个按钮",
+    "compClassName": "button"
+  },
+  {
+    "compName": "RidusButton",
+    "compZhName": "按钮two",
+    "compDesc": "这是一个原按钮",
+    "compClassName": "button"
+  },
+  {
+    "compName": "Qyone",
+    "compZhName": "新组件一",
+    "compDesc": "默认：这是一个新组件",
+    "compClassName": "qyone"
+  },
+  {
+    "compName": "Qytwo",
+    "compZhName": "新组件二",
+    "compDesc": "默认：这是一个新组件",
+    "compClassName": "qytwo"
+  },
+  {
+    "compName": "Qythres",
+    "compZhName": "第三个新组件",
+    "compDesc": "默认：这是一个新组件",
+    "compClassName": "qythres"
+  },
+  {
+    "compName": "Qyxxlast",
+    "compZhName": "最后一次测试力一定过",
+    "compDesc": "默认：这是一个新组件",
+    "compClassName": "qyxxlast"
+  },
+  {
+    "compName": "Gzlxxxx",
+    "compZhName": "故障",
+    "compDesc": "下手大大大哇",
+    "compClassName": "gzlxxxx"
+  },
+  {
+    "compName": "Qylastlast",
+    "compZhName": "最后一次测试",
+    "compDesc": "默认：这是一个新组件",
+    "compClassName": "qylastlast"
+  },
+  {
+    "compName": "Qyzjs",
+    "compZhName": "信息",
+    "compDesc": "默认：这是一个新组件",
+    "compClassName": "qyzjs"
+  }
+]

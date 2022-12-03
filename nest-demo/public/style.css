@@ -1,0 +1,27 @@
+body {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  color: rgb(5, 238, 255);
+}
+:root {
+  background-image: url('/pub/bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+a {
+  text-decoration: none;
+  color: rgb(5, 238, 255);
+  font-weight: 600;
+  margin: 1rem;
+}
+a:hover {
+  color: rgb(0, 174, 255);
+}
+div {
+  margin: 1rem;
+  font-weight: 600;
+}
